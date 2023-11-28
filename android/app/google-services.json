@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "49418345381",
+    "firebase_url": "https://leloo-2e398-default-rtdb.firebaseio.com",
+    "project_id": "leloo-2e398",
+    "storage_bucket": "leloo-2e398.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49418345381:android:34c7c7e6e5723c9daae64c",
+        "android_client_info": {
+          "package_name": "com.ai.roots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49418345381-7l5svr2sormfksn69c61eam0jk1dbsjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo4h5pnfWW9-Y9mWNFmZliATze5o0v-OY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49418345381-7l5svr2sormfksn69c61eam0jk1dbsjv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "49418345381-5r661hl5kfakrful6lv995il1kf5qqse.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ai.roots"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49418345381:android:cbdb042fdeb8be33aae64c",
+        "android_client_info": {
+          "package_name": "com.inertia.chatter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49418345381-7l5svr2sormfksn69c61eam0jk1dbsjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo4h5pnfWW9-Y9mWNFmZliATze5o0v-OY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49418345381-7l5svr2sormfksn69c61eam0jk1dbsjv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "49418345381-5r661hl5kfakrful6lv995il1kf5qqse.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ai.roots"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49418345381:android:242844dd943636f4aae64c",
+        "android_client_info": {
+          "package_name": "com.inertia.leloo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49418345381-7l5svr2sormfksn69c61eam0jk1dbsjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo4h5pnfWW9-Y9mWNFmZliATze5o0v-OY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49418345381-7l5svr2sormfksn69c61eam0jk1dbsjv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "49418345381-5r661hl5kfakrful6lv995il1kf5qqse.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ai.roots"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
