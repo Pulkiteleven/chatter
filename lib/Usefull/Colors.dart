@@ -396,6 +396,24 @@ Widget notChats(bool a){
   );
 }
 
+newbottoms(BuildContext ctx, Widget w) {
+  showModalBottomSheet(
+      backgroundColor: bgColor,
+      shape: const RoundedRectangleBorder(
+          borderRadius: BorderRadius.vertical(top: Radius.circular(25.0))),
+      context: ctx,
+      isScrollControlled: true,
+      builder: (context) => Padding(
+          padding:
+          EdgeInsets.only(bottom: MediaQuery.of(context).viewInsets.bottom),
+          child: Container(
+              color: bgColor,
+              padding:
+              const EdgeInsets.symmetric(horizontal: 10.0, vertical: 10.0),
+              child: w)));
+}
+
+
 
 
 
